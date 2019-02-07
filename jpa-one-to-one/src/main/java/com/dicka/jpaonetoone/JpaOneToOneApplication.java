@@ -18,7 +18,7 @@ public class JpaOneToOneApplication {
 	}
 
 }
-
+/**
 @Component
 class RunnerClassData implements CommandLineRunner {
 
@@ -33,4 +33,5 @@ class RunnerClassData implements CommandLineRunner {
 	}
 }
 
+**/
 
